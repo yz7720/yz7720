@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## ICM - Fall 2021 
 
-You can use the [editor on GitHub](https://github.com/yz7720/yz7720/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+* HOW COMPUTATION APPLIES TO MY INTEREST
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+After 8 years working and studying in the building insdustry, I feel there are certain constrains regarding the freedom of design in this traditional design area.    Also as an architecture graduate and industrial designer, I have developed a profound interest in graphic and installation design. After a visit to TeamLab's exhibition in Tokyo, Japan, which the experience have growned into a huge inspiration, that computation media art could be a good combination of what I'm looking to do. Thus, I'm imgaing this term, I'll be making interactive art works that can be projected anywhere to evoke participation during the pandemic in a safe way. 
+I love projects that are visually interesting, ranging from installations, motion graphics, projection,to animations. 
 
-### Markdown
+### Self-Portrait
+![Self-Portrait Image](file:///Users/yitingzeng/Desktop/Screen%20Shot%202021-09-07%20at%201.58.25%20pm.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
